@@ -22,16 +22,3 @@ switch (peca)
     return 0;
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-}
